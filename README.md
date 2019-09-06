@@ -1,18 +1,12 @@
 # reso_coder_themes
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
 # rc_themes_hydrated
 Flutter themes persisting
+
+Inspired by the Reso Code Video about themes with Flutter.
+[Watch the video here](https://www.youtube.com/watch?v=YYbhkg-W8Mg).
+[Writen tut](https://resocoder.com/2019/08/09/switch-themes-with-flutter-bloc-dynamic-theming-tutorial-dark-light-theme/).
+
+Applied the HydratedBloc practices disqussed in Reso Coder's video.
+[Watch the video here](https://www.youtube.com/watch?v=vSOpZd_FFEY).
+[Writen tut](https://resocoder.com/2019/09/05/persist-bloc-state-in-flutter-hydrated-bloc-tutorial/).
